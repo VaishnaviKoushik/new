@@ -1,0 +1,19 @@
+*class=doesn't have memmory,blueprint to hold any structure of object which has attributes and methods
+
+*object has memory
+
+*object oriented =maintainability
+
+*constructor=  a special function which gets called when an object gets created and has same name as class
+
+*Scanner =is a class and has some functions,sc is an object instantiated using Scanner ,nextInt takes the next integer nextDouble()
+
+*object oriented=combined of data and variables 
+
+*attributes=
+
+*System is an Class out is an object print is a method of the class
+ 
+*frontend in java=swing class
+
+
